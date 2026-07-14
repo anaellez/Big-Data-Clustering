@@ -56,6 +56,6 @@ While the producer is running, execute either `K-Means.ipynb` or `GMM.ipynb` to 
 
 ## 👥 Contributors
 
+- Anaelle Meimoun
 - Nir Lapidot
 - Shiri Juniman
-- Anaelle Meimoun
